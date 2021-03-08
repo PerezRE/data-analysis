@@ -42,7 +42,7 @@ Ya hemos identificado el problema, ahora se presentan interrogantes que se prete
 * ¿Qué país tiene mayor número de jugadores?
 * ¿Se prefieren juegos multijugador o de un solo jugador?
 * ¿Se prefieren juegos con interacción social?
-* ¿Qué requerimientos de hardware/software son los más demandados?
+* ¿Qué requerimientos de hardware/software son los más demandados en la industria de los videojuegos?
 
 Dada varias plataforma de distribución y fuentes de datos:
 * ¿Cuál ha sido el juego más jugado en los últimos años?
