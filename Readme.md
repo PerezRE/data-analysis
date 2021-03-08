@@ -10,9 +10,11 @@
 *   Jesús Ismael Pineda Hernández
 ```
 
+# Objetivo
+Se pretende procesar conjuntos de datos con la finalidad de construir conjuntos adicionales que aporten valor agregado al análisis exploratorio y permitan resolver las interrogantes propuestas.
+
 
 # Identificación del problema
-
 En la actualidad la industria de los videojuegos ha crecido de manera exponencial y a lo largo de los últimos años teniendo una valuación de 159.5 billones de dólares según [Statista](https://www.statista.com/topics/868/video-games/), el mismo sitio afirma que la industria obtiene ganancias de aproximadamente 19.7 billones de dólares por año. Según datos del mismo sitio un 56% de los juegos que se lanzan cada año son desarrollados para PC, esto debido a que es más fácil desarrollarlos para esta plataforma por lo que resulta ser una industria con tanto crecimiento y futuro, y es normal que cada vez más emprendedores quieran desarrollar sus videojuegos y lanzarlos al mercado.
 
 
