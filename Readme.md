@@ -40,9 +40,11 @@ Ya hemos identificado el problema, ahora se presentan interrogantes que se prete
 * ¿Qué tipo de consola prefieren los jugadores?
 * ¿Qué género se prefiere entre los jugadores?
 * ¿Qué país tiene mayor número de jugadores?
+* ¿En qué paises se desarrollan videojuegos?
+* ¿En qué paises se venden más videojuegos?
 * ¿Se prefieren juegos multijugador o de un solo jugador?
 * ¿Se prefieren juegos con interacción social?
-* ¿Qué requerimientos de hardware/software son los más demandados en la industria de los videojuegos?
+* ¿Qué requerimientos de hardware/software son los más demandados?
 
 Dada varias plataforma de distribución y fuentes de datos:
 * ¿Cuál ha sido el juego más jugado en los últimos años?
