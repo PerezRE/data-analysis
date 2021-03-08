@@ -10,7 +10,7 @@
 *   Jesús Ismael Pineda Hernández
 ```
 
-# Objetivo
+## Objetivo
 Se pretende procesar conjuntos de datos con la finalidad de construir conjuntos adicionales que aporten valor agregado al análisis exploratorio y permitan resolver las interrogantes propuestas.
 
 
