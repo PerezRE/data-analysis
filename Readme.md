@@ -47,6 +47,7 @@ Ya hemos identificado el problema, ahora se presentan interrogantes que se prete
 * ¿Se prefieren juegos multijugador o de un solo jugador?
 * ¿Se prefieren juegos con interacción social?
 * ¿Qué requerimientos de hardware/software son los más demandados?
+* Generar recomendaciones a partir de ciertas variables.
 
 Dada varias plataforma de distribución y fuentes de datos:
 * ¿Cuál ha sido el juego más jugado en los últimos años?
